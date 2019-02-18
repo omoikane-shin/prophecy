@@ -5,10 +5,27 @@ description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
 
-## hoge
+### 経歴
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!</p>
+* 2009年〜2018年：某メディアのファウンディグメンバー
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias, earum consectetur quia natus ducimus voluptate explicabo, hic porro reprehenderit, quasi? Tenetur ipsum distinctio laboriosam perspiciatis officiis dolore, architecto id.</p>
+    チーフエンジニアとして設計・開発、グロースハックに貢献。サイトを1,700万PV/月に成長させる。2018年にサイトの売却を果たす
 
-<p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam inventore aspernatur repellendus incidunt adipisci modi voluptates recusandae iste eligendi, repudiandae corporis quod aut, optio! Explicabo quaerat unde voluptatem! Itaque, eum!</p>
+* 2014年〜2017年：シードアクセラレータプログラム・メンター
+
+    リードメンターとして担当したチームをM&AでEXITを果たす
+
+* 2016年〜2017年：VC勤務。チーフエンジニア。
+
+    インベストメント・ファイナンシャルマネージメントシステムの総合プロデューサー。
+
+
+### 人物像
+
+* 平和をのぞみます
+* 自身を無知と考えます
+* 知識の変化に伴い考えを再構成し、時に意見を変えます
+* 現実を直視します
+* 根本的な善と悪は存在しないと考え、人はどこに「善悪を感じるのか」を考えます
+
+このエッセイを書くにあたって、読者のみなさまには著者がどの様な人物であり、どの様な指針に基づき文章を書いているのかを知っていただく必要を感じ、ここに記します。
