@@ -18,9 +18,14 @@ layout: default
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
             <span class="meta">Posted by
-              <a href="#">Start Bootstrap</a>
+              {% if page.author %}
+              {{ page.author }}
+              {% else %}
+              {{ site.author }}
+              {% endif %}
               on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-              content=page.content %}</span>
+              content=page.content %}
+            </span>
           </div>
         </div>
       </div>
