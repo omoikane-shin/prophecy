@@ -29,6 +29,7 @@ layout: default
 
         {{ content }}
 
+        {% comment %}
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
 
@@ -54,6 +55,7 @@ layout: default
         <hr>
 
         {% endfor %}
+        {% endcomment %}
 
         <!-- Pager -->
         <div class="clearfix">
