@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /categories/
+title: Category
+description: Categories on the page
+background: '/img/bg-contact.jpg'
+---
+<h1>Categories</h1>
+
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <h2><a href="{{ category.url | relative_url }}">{{ category.name }}</a></h2>
+      <p>{{ category.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
