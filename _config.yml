@@ -11,6 +11,7 @@ github_username:   omoikane-shin
 facebook_username: omoikane.shin
 
 # Build settings
+permalink: /:year/:month/:day/:title/
 markdown:          kramdown
 paginate:          5
 paginate_path:     "/posts/page:num/"
