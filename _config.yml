@@ -19,8 +19,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-google_analytics: UA-15649807-20
-
 collections:
   categories:
     output: true
