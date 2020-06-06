@@ -48,3 +48,18 @@ In the Front Matter, you would set categories the article is belonging to.
 ### draft articles
 
 If you want to write a draft content, you would put the article in _drafts directory.
+
+### run host on local
+
+normal run
+
+```bash
+$ bundle exec jekyll serve
+```
+
+draft run
+
+```bash
+$ bundle exec jekyll serve --drafts
+```
+This includes _drafts posts
